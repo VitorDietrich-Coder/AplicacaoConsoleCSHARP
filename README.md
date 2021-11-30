@@ -32,11 +32,11 @@ A little more of my studie in java
 
 This repository is my first steps with C#, it contain:
 
-[Exercicio 1](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Calculadora/Exercicio1%20Funcões.sln)
+[Exercicio 1](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Exercicio1%20Funcões/Exercicio1%20Funcões.sln)
 <br>
 <hr>
 
-[Exercicio 2](https://github.com/VitorDietrich-Coder/Aplicacoes-em-C-Sharp/blob/main/Calculadorajuroscompostos/Form1.cs)
+[Exercicio 2](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Exercicio2%20Funcões/Exercicio2%20Funcões.sln)
 <br>
 <hr>
 
