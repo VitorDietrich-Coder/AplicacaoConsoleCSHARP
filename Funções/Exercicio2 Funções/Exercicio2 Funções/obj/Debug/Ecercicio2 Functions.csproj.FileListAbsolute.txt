@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Ecercicio2 Functions\Ecercicio2 Functions\bin\Debug\Ecercicio2 Functions.exe.config
+C:\Users\vitor\source\repos\Ecercicio2 Functions\Ecercicio2 Functions\bin\Debug\Ecercicio2 Functions.exe
+C:\Users\vitor\source\repos\Ecercicio2 Functions\Ecercicio2 Functions\bin\Debug\Ecercicio2 Functions.pdb
+C:\Users\vitor\source\repos\Ecercicio2 Functions\Ecercicio2 Functions\obj\Debug\Ecercicio2 Functions.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Ecercicio2 Functions\Ecercicio2 Functions\obj\Debug\Ecercicio2 Functions.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Ecercicio2 Functions\Ecercicio2 Functions\obj\Debug\Ecercicio2 Functions.exe
+C:\Users\vitor\source\repos\Ecercicio2 Functions\Ecercicio2 Functions\obj\Debug\Ecercicio2 Functions.pdb

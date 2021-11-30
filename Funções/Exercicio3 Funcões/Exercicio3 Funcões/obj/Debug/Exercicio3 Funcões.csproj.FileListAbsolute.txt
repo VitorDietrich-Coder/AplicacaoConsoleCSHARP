@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Exercicio3 Funcões\Exercicio3 Funcões\bin\Debug\Exercicio3 Funcões.exe.config
+C:\Users\vitor\source\repos\Exercicio3 Funcões\Exercicio3 Funcões\bin\Debug\Exercicio3 Funcões.exe
+C:\Users\vitor\source\repos\Exercicio3 Funcões\Exercicio3 Funcões\bin\Debug\Exercicio3 Funcões.pdb
+C:\Users\vitor\source\repos\Exercicio3 Funcões\Exercicio3 Funcões\obj\Debug\Exercicio3 Funcões.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exercicio3 Funcões\Exercicio3 Funcões\obj\Debug\Exercicio3 Funcões.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exercicio3 Funcões\Exercicio3 Funcões\obj\Debug\Exercicio3 Funcões.exe
+C:\Users\vitor\source\repos\Exercicio3 Funcões\Exercicio3 Funcões\obj\Debug\Exercicio3 Funcões.pdb

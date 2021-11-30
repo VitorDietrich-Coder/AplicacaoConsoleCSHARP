@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Funções\Funções\bin\Debug\Funções.exe.config
+C:\Users\vitor\source\repos\Funções\Funções\bin\Debug\Funções.exe
+C:\Users\vitor\source\repos\Funções\Funções\bin\Debug\Funções.pdb
+C:\Users\vitor\source\repos\Funções\Funções\obj\Debug\Funções.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Funções\Funções\obj\Debug\Funções.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Funções\Funções\obj\Debug\Funções.exe
+C:\Users\vitor\source\repos\Funções\Funções\obj\Debug\Funções.pdb
