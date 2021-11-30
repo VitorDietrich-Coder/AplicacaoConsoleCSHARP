@@ -32,7 +32,7 @@ A little more of my studie in java
 
 This repository is my first steps with C#, it contain:
 
-[Exercicio 1](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Exercicio1%20Funcões/Exercicio1%20Funcões.sln)
+[Exercicio 1](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Funções/Exercicio1%20Funcões)
 <br>
 <hr>
 
