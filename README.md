@@ -40,4 +40,4 @@ This repository is my first steps with C#, it contain:
 <br>
 <hr>
 
-[Exercicio 3](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Funções/Exercicio3%20Funções)
+[Exercicio 3](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Funções/Exercicio3%20Funcões)
