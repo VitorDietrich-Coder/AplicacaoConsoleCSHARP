@@ -36,8 +36,8 @@ This repository is my first steps with C#, it contain:
 <br>
 <hr>
 
-[Exercicio 2](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Funções/Exercicio2%20Funcões)
+[Exercicio 2](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Funções/Exercicio2%20Funções)
 <br>
 <hr>
 
-[Exercicio 3](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Funções/Exercicio3%20Funcões)
+[Exercicio 3](https://github.com/VitorDietrich-Coder/AplicacaoConsoleCSHARP/blob/main/Funções/Exercicio3%20Funções)
