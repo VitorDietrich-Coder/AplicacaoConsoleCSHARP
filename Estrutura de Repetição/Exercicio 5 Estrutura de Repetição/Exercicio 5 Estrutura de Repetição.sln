@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 4 Estrutura de Repetições", "Exercicio 4 Estrutura de Repetições\Exercicio 4 Estrutura de Repetições.csproj", "{00DBCB09-261D-479F-B89F-38B89AC1A182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DBCB09-261D-479F-B89F-38B89AC1A182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DBCB09-261D-479F-B89F-38B89AC1A182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DBCB09-261D-479F-B89F-38B89AC1A182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DBCB09-261D-479F-B89F-38B89AC1A182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC11D74-ECF3-47A3-8B35-DAABB8F6CC45}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\vitor.dietrich\source\repos\Exercicio 2 Estrutura Repetição\Exercicio 2 Estrutura Repetição\bin\Debug\Exercicio 2 Estrutura Repetição.exe.config
+C:\Users\vitor.dietrich\source\repos\Exercicio 2 Estrutura Repetição\Exercicio 2 Estrutura Repetição\bin\Debug\Exercicio 2 Estrutura Repetição.exe
+C:\Users\vitor.dietrich\source\repos\Exercicio 2 Estrutura Repetição\Exercicio 2 Estrutura Repetição\bin\Debug\Exercicio 2 Estrutura Repetição.pdb
+C:\Users\vitor.dietrich\source\repos\Exercicio 2 Estrutura Repetição\Exercicio 2 Estrutura Repetição\obj\Debug\Exercicio 2 Estrutura Repetição.csproj.AssemblyReference.cache
+C:\Users\vitor.dietrich\source\repos\Exercicio 2 Estrutura Repetição\Exercicio 2 Estrutura Repetição\obj\Debug\Exercicio 2 Estrutura Repetição.csproj.CoreCompileInputs.cache
+C:\Users\vitor.dietrich\source\repos\Exercicio 2 Estrutura Repetição\Exercicio 2 Estrutura Repetição\obj\Debug\Exercicio 2 Estrutura Repetição.exe
+C:\Users\vitor.dietrich\source\repos\Exercicio 2 Estrutura Repetição\Exercicio 2 Estrutura Repetição\obj\Debug\Exercicio 2 Estrutura Repetição.pdb

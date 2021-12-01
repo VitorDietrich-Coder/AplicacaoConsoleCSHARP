@@ -1,0 +1,7 @@
+C:\Users\vitor.dietrich\source\repos\Exercicio 4 Estrutura de Repetição\Exercicio 4 Estrutura de Repetição\bin\Debug\Exercicio 4 Estrutura de Repetição.exe.config
+C:\Users\vitor.dietrich\source\repos\Exercicio 4 Estrutura de Repetição\Exercicio 4 Estrutura de Repetição\bin\Debug\Exercicio 4 Estrutura de Repetição.exe
+C:\Users\vitor.dietrich\source\repos\Exercicio 4 Estrutura de Repetição\Exercicio 4 Estrutura de Repetição\bin\Debug\Exercicio 4 Estrutura de Repetição.pdb
+C:\Users\vitor.dietrich\source\repos\Exercicio 4 Estrutura de Repetição\Exercicio 4 Estrutura de Repetição\obj\Debug\Exercicio 4 Estrutura de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\vitor.dietrich\source\repos\Exercicio 4 Estrutura de Repetição\Exercicio 4 Estrutura de Repetição\obj\Debug\Exercicio 4 Estrutura de Repetição.exe
+C:\Users\vitor.dietrich\source\repos\Exercicio 4 Estrutura de Repetição\Exercicio 4 Estrutura de Repetição\obj\Debug\Exercicio 4 Estrutura de Repetição.pdb
+C:\Users\vitor.dietrich\source\repos\Exercicio 4 Estrutura de Repetição\Exercicio 4 Estrutura de Repetição\obj\Debug\Exercicio 4 Estrutura de Repetição.csproj.AssemblyReference.cache
