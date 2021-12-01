@@ -1,0 +1,7 @@
+C:\Users\vitor.dietrich\source\repos\Projeto1 Console\Projeto1 Console\bin\Debug\Projeto1 Console.exe.config
+C:\Users\vitor.dietrich\source\repos\Projeto1 Console\Projeto1 Console\bin\Debug\Projeto1 Console.exe
+C:\Users\vitor.dietrich\source\repos\Projeto1 Console\Projeto1 Console\bin\Debug\Projeto1 Console.pdb
+C:\Users\vitor.dietrich\source\repos\Projeto1 Console\Projeto1 Console\obj\Debug\Projeto1 Console.csproj.AssemblyReference.cache
+C:\Users\vitor.dietrich\source\repos\Projeto1 Console\Projeto1 Console\obj\Debug\Projeto1 Console.csproj.CoreCompileInputs.cache
+C:\Users\vitor.dietrich\source\repos\Projeto1 Console\Projeto1 Console\obj\Debug\Projeto1 Console.exe
+C:\Users\vitor.dietrich\source\repos\Projeto1 Console\Projeto1 Console\obj\Debug\Projeto1 Console.pdb
