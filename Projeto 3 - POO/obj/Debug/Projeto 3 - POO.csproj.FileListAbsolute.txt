@@ -1,0 +1,8 @@
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\bin\Debug\Projeto 3 - POO.exe.config
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\bin\Debug\Projeto 3 - POO.exe
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\bin\Debug\Projeto 3 - POO.pdb
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\obj\Debug\Projeto 3 - POO.csproj.AssemblyReference.cache
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\obj\Debug\Projeto 3 - POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\obj\Debug\Projeto 3 - POO.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\obj\Debug\Projeto 3 - POO.exe
+C:\Users\vitor\Source\Repos\Projeto 3 - POO\Projeto 3 - POO\obj\Debug\Projeto 3 - POO.pdb
